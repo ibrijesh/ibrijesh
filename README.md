@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄   www.ibrijesh.tech
+- 😄   https://ibrjesh.tech
 
 <!--
 **ibrijesh/ibrijesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
